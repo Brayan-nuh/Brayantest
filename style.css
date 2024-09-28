@@ -1,0 +1,91 @@
+button{
+    color:white; 
+    background-color:red;
+    border: none;
+    height: 36px;  
+    width: 105px;
+    border-radius:8px 8px;
+    cursor: pointer; 
+    font-size: 20px; 
+    margin: 10px;
+    
+    
+}  
+.header {
+    color:white;
+    background-color: lawngreen;
+    display: flex; 
+    align-items: center;
+    gap: 20%;
+    font-size: 20px;
+
+} 
+.header img{
+    border-radius: 50%;
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+body{
+    font-size: 14.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    padding: 2%;
+}
+h2{
+    color:lightseagreen;
+    font-size: 30px;
+    
+}
+.pets p{
+    text-align: left;
+    color:blue ;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+    
+    
+}
+.dogs{
+  float: left;
+  width: 30%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+
+} 
+.page2{
+    padding: 2%;
+}
+.logo{
+    width: 50px;
+    height: 50px; 
+
+
+}
+.mail{
+    display: flex;
+    align-items: center;
+}
+.whatsapp{
+    display: flex;
+    align-items: center;
+    
+}
+.contacts{
+    display: flex; 
+    gap: 20px;
+
+}
+.head2{
+    display: flex;
+    gap: 10%;
+    width: 100%;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+    background-color: lawngreen;
+
+}
+
+
