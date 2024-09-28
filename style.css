@@ -87,5 +87,18 @@ h2{
     background-color: lawngreen;
 
 }
+.training{
+    
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    width: 40%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    margin: 8px;
+
+
+    
+}
 
 
